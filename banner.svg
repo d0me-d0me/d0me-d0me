@@ -32,10 +32,10 @@
   <line x1="16" y1="46" x2="884" y2="46" stroke="#2A2620" stroke-width="1"/>
 
   <!-- body -->
-  <g font-family="'JetBrains Mono', ui-monospace, monospace" filter="url(#soft)">
+  <g font-family="'JetBrains Mono', ui-monospace, monospace">
     <text x="40" y="92" font-size="15" fill="#8F8875"><tspan fill="#F2F4EA" font-weight="700">d0me</tspan>:~$ ./whoami --refs</text>
 
-    <text x="40" y="150" font-size="46" font-weight="700" fill="#F2F4EA" letter-spacing="-1">Security Field Refs<tspan dx="6" fill="#48B44A">_</tspan></text>
+    <text x="40" y="150" font-size="46" font-weight="700" fill="#F2F4EA" letter-spacing="-1" filter="url(#soft)">Security Field Refs<tspan dx="6" fill="#48B44A">_</tspan></text>
 
     <text x="42" y="188" font-size="14" fill="#D9DCCF">offensive &amp; defensive &#183; labs &#183; CTFs &#183; disclosed CVEs</text>
   </g>
