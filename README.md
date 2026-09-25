@@ -21,7 +21,7 @@ work and disclosed CVEs. Every technique carries its detection and mitigation si
 列挙・AD・権限昇格・横展開・web・回避 / C2 を横断する実務リファレンス。
 各手法に検知・緩和の観点を併記している。
 
-→ https://d0me-d0me.github.io
+Start with the cheat sheets → https://d0me-d0me.github.io
 
 ### Focus
 
@@ -36,6 +36,11 @@ work and disclosed CVEs. Every technique carries its detection and mitigation si
 - `SAL1` — TryHackMe
 - `CySA+` — CompTIA
 - `CCNA` — Cisco
+
+### Repositories
+
+- [`d0me-d0me.github.io`](https://github.com/d0me-d0me/d0me-d0me.github.io) — source for the field references site
+- [`public-vault`](https://github.com/d0me-d0me/public-vault) — Obsidian notes vault (work in progress)
 
 ---
 
