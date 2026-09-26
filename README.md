@@ -40,7 +40,6 @@ Start with the cheat sheets → https://d0me-d0me.github.io
 ### Repositories
 
 - [`d0me-d0me.github.io`](https://github.com/d0me-d0me/d0me-d0me.github.io) — source for the field references site
-- [`public-vault`](https://github.com/d0me-d0me/public-vault) — Obsidian notes vault (work in progress)
 
 ---
 
