@@ -33,8 +33,14 @@ Start here → https://d0me-d0me.github.io
 Every offensive technique carries its detection and mitigation side; every
 defensive one is read back from the operator's view.
 
+The offensive sheets track the ground OffSec (`OSCP` · `OSEP`) and Hack The Box
+(`CPTS`) exams and lab paths cover — from enumeration through Active Directory
+compromise to evasion and C2 — so they double as prep references for those.
+
 列挙・AD・権限昇格・横展開・web・回避 / C2、そして Linux 強化・フォレンジック / IR。
 各手法に攻撃と防御、双方の観点を併記している。
+攻撃側のシートは OffSec (OSCP · OSEP)・Hack The Box (CPTS) の試験・ラボが扱う範囲を
+意識して整理しており、これらの対策リファレンスとしても使える。
 
 ### Focus
 
