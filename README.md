@@ -4,29 +4,43 @@
 
 </div>
 
-Field notes from both sides of security. Originally a notebook for myself,
-published in case someone stuck on the same problem finds a shortcut.
+Field notes from both sides of security — offensive and defensive. Originally
+a notebook for myself, published in case someone stuck on the same problem
+finds a shortcut.
 
 攻撃・防御両面の実務ノート。ラボ・CTF・公開 CVE の再現を通じた記録。
 
 ---
 
-### Refs — offensive security cheat sheets
+### Site — two surfaces
 
-Terminal-style references covering enumeration, Active Directory, privilege
-escalation, lateral movement, web, and evasion / C2 tradecraft — the ground
-most offensive certifications and lab-heavy study paths cover. Built from lab
-work and disclosed CVEs. Every technique carries its detection and mitigation side.
+- **Notes** (blog) — longer articles on why a technique matters, where it works,
+  its limits, and how the two sides read the same event. Lab / CTF writeups and
+  disclosed-CVE reproductions land here too.
+- **Refs** — terminal-style cheat sheets built for quick lookup during practice.
 
-列挙・AD・権限昇格・横展開・web・回避 / C2 を横断する実務リファレンス。
-各手法に検知・緩和の観点を併記している。
+Both split across the same three domains: `Offensive` · `Defensive` · `Other`.
 
-Start with the cheat sheets → https://d0me-d0me.github.io
+Start here → https://d0me-d0me.github.io
+
+### Coverage
+
+- **Offensive** — enumeration, Active Directory, privilege escalation, lateral
+  movement, web, evasion / C2, file transfer.
+- **Defensive** — Linux hardening, forensics & IR.
+- **Other** — reporting.
+
+Every offensive technique carries its detection and mitigation side; every
+defensive one is read back from the operator's view.
+
+列挙・AD・権限昇格・横展開・web・回避 / C2、そして Linux 強化・フォレンジック / IR。
+各手法に攻撃と防御、双方の観点を併記している。
 
 ### Focus
 
 `AD exploitation` · `AV/EDR evasion` · `process injection`
 `AMSI / CLM bypass` · `lateral movement` · `C2 ops` · `custom C#/.NET tradecraft`
+— with the defender's view (detection, artefacts, hardening) kept alongside.
 
 ### Certifications
 
@@ -39,7 +53,7 @@ Start with the cheat sheets → https://d0me-d0me.github.io
 
 ### Repositories
 
-- [`d0me-d0me.github.io`](https://github.com/d0me-d0me/d0me-d0me.github.io) — source for the field references site
+- [`d0me-d0me.github.io`](https://github.com/d0me-d0me/d0me-d0me.github.io) — source for the field notes + references site
 
 ---
 
