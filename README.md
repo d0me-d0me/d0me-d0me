@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="900" alt="d0me — offensive & defensive security">
+<img src="./banner.png" width="820" alt="d0me — Security Field Notes — offensive & defensive security">
 
 </div>
 
