@@ -27,17 +27,17 @@
     <circle cx="26" cy="26" r="5" fill="#E5533B" fill-opacity="0.75"/>
     <circle cx="46" cy="26" r="5" fill="#E5A03B" fill-opacity="0.75"/>
     <circle cx="66" cy="26" r="5" fill="#48B44A" fill-opacity="0.75"/>
-    <text x="884" y="30" text-anchor="end" font-size="12" fill="#615C50">— d0me — field-references — 80×24</text>
+    <text x="884" y="30" text-anchor="end" font-size="12" fill="#615C50">— d0me — field-notes — 80×24</text>
   </g>
   <line x1="16" y1="46" x2="884" y2="46" stroke="#2A2620" stroke-width="1"/>
 
   <!-- body -->
   <g font-family="'JetBrains Mono', ui-monospace, monospace">
-    <text x="40" y="92" font-size="15" fill="#8F8875"><tspan fill="#F2F4EA" font-weight="700">d0me</tspan>:~$ ./whoami --refs</text>
+    <text x="40" y="92" font-size="15" fill="#8F8875"><tspan fill="#F2F4EA" font-weight="700">d0me</tspan>:~$ cat intro</text>
 
-    <text x="40" y="150" font-size="46" font-weight="700" fill="#F2F4EA" letter-spacing="-1" filter="url(#soft)">Security Field Refs<tspan dx="6" fill="#48B44A">_</tspan></text>
+    <text x="40" y="150" font-size="46" font-weight="700" fill="#F2F4EA" letter-spacing="-1" filter="url(#soft)">Security Field Notes<tspan dx="6" fill="#48B44A">_</tspan></text>
 
-    <text x="42" y="188" font-size="14" fill="#D9DCCF">offensive &amp; defensive &#183; labs &#183; CTFs &#183; disclosed CVEs</text>
+    <text x="42" y="188" font-size="14" fill="#D9DCCF">notes from both sides of security &#183; offensive &amp; defensive</text>
   </g>
 
   <!-- meta strip -->
@@ -46,7 +46,7 @@
     <text x="40" y="226" fill="#615C50">
       <tspan fill="#8F8875">build</tspan> <tspan fill="#48B44A" font-weight="700">ok</tspan>
       <tspan fill="#615C50">&#183;</tspan> <tspan fill="#8F8875">offensive</tspan> <tspan fill="#D9DCCF" font-weight="700">/</tspan> <tspan fill="#8F8875">defensive</tspan>
-      <tspan fill="#615C50">&#183;</tspan> <tspan fill="#8F8875">data</tspan> <tspan fill="#D9DCCF" font-weight="700">placeholders only</tspan>
+      <tspan fill="#615C50">&#183;</tspan> <tspan fill="#8F8875">aligned</tspan> <tspan fill="#D9DCCF" font-weight="700">OffSec</tspan> <tspan fill="#615C50">OSCP·OSEP</tspan> <tspan fill="#D9DCCF" font-weight="700">HTB</tspan> <tspan fill="#615C50">CPTS</tspan>
     </text>
   </g>
 
