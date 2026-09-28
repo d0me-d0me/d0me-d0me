@@ -8,7 +8,7 @@ Field notes from both sides of security — offensive and defensive. Originally
 a notebook for myself, published in case someone stuck on the same problem
 finds a shortcut.
 
-攻撃・防御両面の実務ノート。ラボ・CTF・公開 CVE の再現を通じた記録。
+攻撃と防御、双方の視点で書き留めた実務ノート。ラボ・CTF・公開 CVE の再現を通じた記録。
 
 ---
 
